@@ -11,8 +11,10 @@ the selected items.
 void dynamic_prog_01(item items[], int n, int W)
 {
     //2D array aka dynamic programming table
-    int dp[n+1][W+1];
-    int i,j,take;
+    int i, j, take;
+    int **dp = (int **)calloc(n + 1, sizeof(int *));
+    for(i = 0; i <= n; i++)
+        dp[i] = (int *)calloc(W + 1, sizeof(int));
 
     //base case
     for(i=0; i<=n; i++)
@@ -51,6 +53,11 @@ void dynamic_prog_01(item items[], int n, int W)
     }
     printf("Maximum profit: %d\n", dp[n][W]);
     printf("\n");
+
+    //free dp table
+    for(i = 0; i <= n; i++)
+        free(dp[i]);
+    free(dp);
 }
 int main(int argc, char *argv[])
 {

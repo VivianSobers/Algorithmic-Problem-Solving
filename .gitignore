@@ -2,7 +2,11 @@
 *.o
 
 # Executables
-dap
+*/hash
+*/dp01
+*/frac_greedy
+*/efs
+*/dap
 *.exe
 
 # Debug / temp files

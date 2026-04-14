@@ -35,5 +35,18 @@ test6:
 
 test: test1 test2 test3 test4 test5 test6
 
+test7:
+	@echo "===================================="
+	@echo "Knapsack Runtime + Space Benchmark"
+	@echo "===================================="
+	@echo ""
+	@echo "▶ Fractional Greedy"
+	@/usr/bin/time -f "Time: %e s | Memory: %M KB" ./frac_greedy tests/test7.txt > /dev/null
+	@echo ""
+	@echo "▶ 0/1 Dynamic Programming"
+	@/usr/bin/time -f "Time: %e s | Memory: %M KB" ./dp01 tests/test7.txt > /dev/null
+	@echo ""
+	@echo "===================================="
+
 clean:
 	rm -f frac_greedy dp01
