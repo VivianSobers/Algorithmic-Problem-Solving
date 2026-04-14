@@ -1,3 +1,5 @@
+![Language](https://img.shields.io/badge/C-Language-blue)
+![Algorithms](https://img.shields.io/badge/DAA-Project-green)
 # Algorithmic Problem Solving — DAA Jackfruit Project
 
 Implementation and experimental analysis of three algorithm design paradigms: **Divide and Conquer**, **Greedy**, and **Dynamic Programming**, built in C.
