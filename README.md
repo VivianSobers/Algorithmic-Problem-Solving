@@ -218,7 +218,7 @@ Space is consumed by the `less`, `equal`, `greater` partitions allocated at each
 ---
 
 ## Comparison Algorithm — Hash-Based Approach
-## Transform and Conquer - Linear Probing
+## Transform and Conquer
 
 ### Approach
 
