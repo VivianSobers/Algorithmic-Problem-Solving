@@ -1,0 +1,16 @@
+# Object files
+*.o
+
+# Executables
+dap
+*.exe
+
+# Debug / temp files
+*.out
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# Linux generated files
+*~
