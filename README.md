@@ -1,12 +1,16 @@
 # Algorithmic Problem Solving — DAA Jackfruit Project
 
-![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-DAA%20%7C%20Algorithms-success?style=for-the-badge)
-![Paradigms](https://img.shields.io/badge/Paradigms-Greedy%20%7C%20DP%20%7C%20DnC-orange?style=for-the-badge)
-![Benchmarks](https://img.shields.io/badge/Benchmarks-Time%20%26%20Space-purple?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Submission%20Ready-brightgreen?style=for-the-badge)
-
-Implementation and experimental analysis of three algorithm design paradigms: **Divide and Conquer**, **Greedy**, and **Dynamic Programming**, built in C.
+![Domain](https://img.shields.io/badge/Domain-Algorithm%20Design-003DCC?style=for-the-badge&labelColor=0052FF)
+![Language](https://img.shields.io/badge/Language-C-CC5500?style=for-the-badge&logo=c&logoColor=white&labelColor=FF6A00)
+![Paradigms](https://img.shields.io/badge/Paradigms-Greedy%20%7C%20D%26C%20%7C%20DP-6600CC?style=for-the-badge&labelColor=8A2BE2)
+![Coverage](https://img.shields.io/badge/Coverage-Core%20Strategies-009933?style=for-the-badge&labelColor=00CC44)
+![Complexity](https://img.shields.io/badge/Complexity-O(n%20log%20n)%20to%20O(nW)-B31252?style=for-the-badge&labelColor=E91E63)
+![Optimization](https://img.shields.io/badge/Focus-Time%20%26%20Space-0088CC?style=for-the-badge&labelColor=00BFFF)
+![Correctness](https://img.shields.io/badge/Proof-Validated-CCAA00?style=for-the-badge&labelColor=FFD700)
+![Testing](https://img.shields.io/badge/Test-Edge%20Cases-800000?style=for-the-badge&labelColor=A52A2A)
+![Status](https://img.shields.io/badge/Status-Research%20Grade-5A2D2D?style=for-the-badge&labelColor=8B5E5E)
+![Build](https://img.shields.io/badge/Build-GCC-000000?style=for-the-badge&labelColor=222222)
+![License](https://img.shields.io/badge/License-Apache%202.0-2F4F4F?style=for-the-badge&labelColor=708090)
 
 ---
 ##  Team Information
